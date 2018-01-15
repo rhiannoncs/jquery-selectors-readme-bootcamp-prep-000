@@ -1,15 +1,15 @@
 function paragraphSelector() {
-  $('p')
+  $('p');
 }
 
 function lastImageSelector() {
-  $('img:last')
+  $('img:last');
 }
 
 function ninjaBabySelector() {
-  $('#baby-ninja')
+  $('#baby-ninja');
 }
 
 function divSelector () {
-  $('.pics')
+  $('.pics');
 }
